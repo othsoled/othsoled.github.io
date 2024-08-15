@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://othsoled.github.io/sitemap.html.gz
+Sitemap: https://othsoled.github.io/app/sitemap.html.gz
+Sitemap: https://othsoled.github.io/assets/sitemap.html.gz
+Sitemap: https://othsoled.github.io/css/sitemap.html.gz
+Sitemap: https://othsoled.github.io/includes/sitemap.html.gz
+Sitemap: https://othsoled.github.io/item/sitemap.html.gz
+Sitemap: https://othsoled.github.io/src/sitemap.html.gz
